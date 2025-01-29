@@ -1,2 +1,2 @@
 # demo
-this is the demo for learning git&amp; git hub
+this is the demo for learning git&amp; git hub...
